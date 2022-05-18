@@ -87,7 +87,7 @@ h1 {
 
 @media screen and (max-width:992px) {
     body {
-        background-color: var(--açık-yeşil);
+        background-color: lightskyblue;
         color: var(--beyaz);
     }
 
